@@ -1,9 +1,18 @@
 # Historia de amor
 
-Experiencia inmersiva, romántica y cinematográfica construida como una línea de tiempo visual. La portada abre la historia y activa la canción **Dos Oruguitas**; cada recuerdo aparece progresivamente al avanzar por la página.
+Versión refinada y más cinematográfica de la experiencia romantic. La portada central con corazón mágico abre la historia, inicia la música y se despliega una línea de tiempo visual con fotos y textos íntimos.
 
-## Personalización
+## Características
 
-- Las fotografías de la línea de tiempo se encuentran definidas en `index.html`.
-- El audio utilizado es `Sebastian Yatra Dos Oruguitas from Encanto Letra.mp3.mpeg`.
-- Las animaciones de aparición usan `IntersectionObserver`, y la experiencia se adapta a móvil.
+- Portada con corazón verde elegante y partículas doradas/verde
+- Música activada con el botón “Abrir aquí”
+- Control de reproducción/pausa en la esquina superior
+- Fondo con hojas cayendo suavemente en movimiento lento
+- Título principal y subtítulo románticos
+- Timeline visual con aparición progresiva de recuerdos
+- Diseño premium, emocional y elegante
+
+## Archivos principales
+
+- `index.html` — página completa
+- `Sebastian Yatra Dos Oruguitas from Encanto Letra.mp3.mpeg` — audio de fondo
